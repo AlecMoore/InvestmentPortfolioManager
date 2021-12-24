@@ -1,6 +1,7 @@
-Writers\EtoroWriter.class
-XLSXReaderExample$1.class
+PortfolioManager\Readers\EtoroReaderAccountActivity.class
+Writers\TransactionWriter.class
 PortfolioManager\Main.class
-XLSXReaderExample.class
-PortfolioManager\Readers\EtoroReader.class
-PortfolioManager\Transactions\EtoroTransaction.class
+PortfolioManager\Readers\CoinbaseReader.class
+PortfolioManager\Readers\TransactionsReader.class
+PortfolioManager\Transactions\Transaction.class
+PortfolioManager\Readers\EtoroReaderClosedPositions.class
